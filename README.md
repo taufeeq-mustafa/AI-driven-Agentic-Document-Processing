@@ -15,12 +15,12 @@ DocMiner is a Streamlit-based AI tool that extracts text, summarizes documents, 
 ## Project Structure
 ```
 DocMiner/
-│── .env                    # Stores API keys (DO NOT SHARE)
+│── .env                    # Stores API keys 
 │── app.py                  # Streamlit UI
 │── utils.py                # Core AI processing logic
 │── requirements.txt        # Dependencies
-│── README.md               # This file
-└── sample_docs/            # Optional
+│── README.md               
+└── sample_docs/            # This file is Optional
 
 ```
 
