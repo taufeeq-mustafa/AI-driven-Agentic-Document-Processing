@@ -1,4 +1,4 @@
-# 📄 DocMiner: AI-Powered Document Processing
+# 📄 DocMiner: AI-Powered Document Processing Tool
 
 ## Overview
 DocMiner is a Streamlit-based AI tool that extracts text, summarizes documents, and answers questions using the Groq API. It supports PDF, DOCX, and TXT files, making document analysis faster and more efficient. 🚀
