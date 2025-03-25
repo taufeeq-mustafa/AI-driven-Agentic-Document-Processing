@@ -1,0 +1,2 @@
+streamlit pdfplumber pytesseract python-dotenv requests groq transformers googletrans pydub Pillow matplotlib
+
